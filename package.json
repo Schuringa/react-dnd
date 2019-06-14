@@ -1,5 +1,6 @@
 {
 	"name": "react-dnd-parent",
+	"version": "7.6.0",
 	"private": true,
 	"description": "React-DnD Monorepo",
 	"repository": {
